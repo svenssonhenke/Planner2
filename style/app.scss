@@ -1,0 +1,20 @@
+body {
+    background-color: #FEFEFE;
+}
+
+.project-list {
+    .box {
+        width: 25%;
+        float: left;
+
+        .project {
+            min-height: 100px;
+            border: 1px solid gray;
+            background-color: #5555FF;
+            padding: 5px;
+            border-radius: 8px;
+            color: white;
+        }
+    }
+    
+}
